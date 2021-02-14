@@ -1,4 +1,4 @@
-# Power-Chatroom-iOS
+# Nice Chat iOS
 
 iOS application that supports multiple chatrooms that can only be accessed if a users device is withing the required battery life range.
 
